@@ -1,0 +1,17 @@
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Infrastructure\bin\Debug\net9.0\CleanGroceryStore.Infrastructure.deps.json
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Infrastructure\bin\Debug\net9.0\CleanGroceryStore.Infrastructure.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Infrastructure\bin\Debug\net9.0\CleanGroceryStore.Infrastructure.pdb
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Infrastructure\bin\Debug\net9.0\CleanGroceryStore.Application.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Infrastructure\bin\Debug\net9.0\CleanGroceryStore.Domain.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Infrastructure\bin\Debug\net9.0\CleanGroceryStore.Application.pdb
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Infrastructure\bin\Debug\net9.0\CleanGroceryStore.Domain.pdb
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Infrastructure\obj\Debug\net9.0\CleanGroceryStore.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Infrastructure\obj\Debug\net9.0\CleanGroceryStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Infrastructure\obj\Debug\net9.0\CleanGroceryStore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Infrastructure\obj\Debug\net9.0\CleanGroceryStore.Infrastructure.AssemblyInfo.cs
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Infrastructure\obj\Debug\net9.0\CleanGroceryStore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Infrastructure\obj\Debug\net9.0\CleanGro.ED0F4785.Up2Date
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Infrastructure\obj\Debug\net9.0\CleanGroceryStore.Infrastructure.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Infrastructure\obj\Debug\net9.0\refint\CleanGroceryStore.Infrastructure.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Infrastructure\obj\Debug\net9.0\CleanGroceryStore.Infrastructure.pdb
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Infrastructure\obj\Debug\net9.0\ref\CleanGroceryStore.Infrastructure.dll

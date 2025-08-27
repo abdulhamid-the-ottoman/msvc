@@ -1,0 +1,14 @@
+# .dockerignore
+
+## Ignore build artifacts
+**/bin
+**/obj
+
+## Ignore user-specific files
+*.user
+*.userosscache
+
+## Ignore Visual Studio files
+.vs
+.vscode
+*.njsproj

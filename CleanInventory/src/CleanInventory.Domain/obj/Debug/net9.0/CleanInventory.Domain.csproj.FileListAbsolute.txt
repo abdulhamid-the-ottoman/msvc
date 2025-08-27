@@ -1,0 +1,11 @@
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Domain\bin\Debug\net9.0\CleanInventory.Domain.deps.json
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Domain\bin\Debug\net9.0\CleanInventory.Domain.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Domain\bin\Debug\net9.0\CleanInventory.Domain.pdb
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Domain\obj\Debug\net9.0\CleanInventory.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Domain\obj\Debug\net9.0\CleanInventory.Domain.AssemblyInfoInputs.cache
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Domain\obj\Debug\net9.0\CleanInventory.Domain.AssemblyInfo.cs
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Domain\obj\Debug\net9.0\CleanInventory.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Domain\obj\Debug\net9.0\CleanInventory.Domain.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Domain\obj\Debug\net9.0\refint\CleanInventory.Domain.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Domain\obj\Debug\net9.0\CleanInventory.Domain.pdb
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Domain\obj\Debug\net9.0\ref\CleanInventory.Domain.dll

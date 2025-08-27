@@ -1,0 +1,17 @@
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Infrastructure\bin\Debug\net9.0\CleanInventory.Infrastructure.deps.json
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Infrastructure\bin\Debug\net9.0\CleanInventory.Infrastructure.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Infrastructure\bin\Debug\net9.0\CleanInventory.Infrastructure.pdb
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Infrastructure\bin\Debug\net9.0\CleanInventory.Application.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Infrastructure\bin\Debug\net9.0\CleanInventory.Domain.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Infrastructure\bin\Debug\net9.0\CleanInventory.Application.pdb
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Infrastructure\bin\Debug\net9.0\CleanInventory.Domain.pdb
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Infrastructure\obj\Debug\net9.0\CleanInventory.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Infrastructure\obj\Debug\net9.0\CleanInventory.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Infrastructure\obj\Debug\net9.0\CleanInventory.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Infrastructure\obj\Debug\net9.0\CleanInventory.Infrastructure.AssemblyInfo.cs
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Infrastructure\obj\Debug\net9.0\CleanInventory.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Infrastructure\obj\Debug\net9.0\CleanInv.6A6A0A39.Up2Date
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Infrastructure\obj\Debug\net9.0\CleanInventory.Infrastructure.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Infrastructure\obj\Debug\net9.0\refint\CleanInventory.Infrastructure.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Infrastructure\obj\Debug\net9.0\CleanInventory.Infrastructure.pdb
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Infrastructure\obj\Debug\net9.0\ref\CleanInventory.Infrastructure.dll

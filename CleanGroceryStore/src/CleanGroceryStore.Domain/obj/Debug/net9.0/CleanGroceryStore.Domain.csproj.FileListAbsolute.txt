@@ -1,0 +1,11 @@
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Domain\bin\Debug\net9.0\CleanGroceryStore.Domain.deps.json
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Domain\bin\Debug\net9.0\CleanGroceryStore.Domain.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Domain\bin\Debug\net9.0\CleanGroceryStore.Domain.pdb
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Domain\obj\Debug\net9.0\CleanGroceryStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Domain\obj\Debug\net9.0\CleanGroceryStore.Domain.AssemblyInfoInputs.cache
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Domain\obj\Debug\net9.0\CleanGroceryStore.Domain.AssemblyInfo.cs
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Domain\obj\Debug\net9.0\CleanGroceryStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Domain\obj\Debug\net9.0\CleanGroceryStore.Domain.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Domain\obj\Debug\net9.0\refint\CleanGroceryStore.Domain.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Domain\obj\Debug\net9.0\CleanGroceryStore.Domain.pdb
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Domain\obj\Debug\net9.0\ref\CleanGroceryStore.Domain.dll

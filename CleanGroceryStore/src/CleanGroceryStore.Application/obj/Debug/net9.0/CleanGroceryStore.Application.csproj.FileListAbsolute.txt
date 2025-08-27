@@ -1,0 +1,15 @@
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Application\bin\Debug\net9.0\CleanGroceryStore.Application.deps.json
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Application\bin\Debug\net9.0\CleanGroceryStore.Application.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Application\bin\Debug\net9.0\CleanGroceryStore.Application.pdb
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Application\bin\Debug\net9.0\CleanGroceryStore.Domain.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Application\bin\Debug\net9.0\CleanGroceryStore.Domain.pdb
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Application\obj\Debug\net9.0\CleanGroceryStore.Application.csproj.AssemblyReference.cache
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Application\obj\Debug\net9.0\CleanGroceryStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Application\obj\Debug\net9.0\CleanGroceryStore.Application.AssemblyInfoInputs.cache
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Application\obj\Debug\net9.0\CleanGroceryStore.Application.AssemblyInfo.cs
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Application\obj\Debug\net9.0\CleanGroceryStore.Application.csproj.CoreCompileInputs.cache
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Application\obj\Debug\net9.0\CleanGro.3B1315B2.Up2Date
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Application\obj\Debug\net9.0\CleanGroceryStore.Application.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Application\obj\Debug\net9.0\refint\CleanGroceryStore.Application.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Application\obj\Debug\net9.0\CleanGroceryStore.Application.pdb
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanGroceryStore\src\CleanGroceryStore.Application\obj\Debug\net9.0\ref\CleanGroceryStore.Application.dll

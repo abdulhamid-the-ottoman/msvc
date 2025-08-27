@@ -1,0 +1,15 @@
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Application\bin\Debug\net9.0\CleanInventory.Application.deps.json
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Application\bin\Debug\net9.0\CleanInventory.Application.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Application\bin\Debug\net9.0\CleanInventory.Application.pdb
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Application\bin\Debug\net9.0\CleanInventory.Domain.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Application\bin\Debug\net9.0\CleanInventory.Domain.pdb
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Application\obj\Debug\net9.0\CleanInventory.Application.csproj.AssemblyReference.cache
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Application\obj\Debug\net9.0\CleanInventory.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Application\obj\Debug\net9.0\CleanInventory.Application.AssemblyInfoInputs.cache
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Application\obj\Debug\net9.0\CleanInventory.Application.AssemblyInfo.cs
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Application\obj\Debug\net9.0\CleanInventory.Application.csproj.CoreCompileInputs.cache
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Application\obj\Debug\net9.0\CleanInv.0B6D2E02.Up2Date
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Application\obj\Debug\net9.0\CleanInventory.Application.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Application\obj\Debug\net9.0\refint\CleanInventory.Application.dll
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Application\obj\Debug\net9.0\CleanInventory.Application.pdb
+C:\Users\vehbi.bayraktar\Projects\MSVC-Journey\CleanInventory\src\CleanInventory.Application\obj\Debug\net9.0\ref\CleanInventory.Application.dll
